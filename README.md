@@ -35,7 +35,7 @@ strong foundations in programming, statistics,
 machine learning, and real-world data projects.
 ---
 
-#                     *** Thanks for visiting my profile! ***
+#           *** Thanks for visiting my profile! ***
 
 
 
