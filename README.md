@@ -14,10 +14,10 @@ I enjoy learning by building practical projects and solving real-world problems 
 - Data Analysis
 - Machine Learning
 - Data Visualization
-- use of AI in Data Science Field
+- AI Application in Data Science
 
 ## Technologies ##
-
+currently focusing ;
 - Python
 - R
 - SQL
